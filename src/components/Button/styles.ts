@@ -17,6 +17,6 @@ export const ButtonContainer = styled.button`
 
     &:disabled {
         opacity: 0;
-        pointer-events: none; 
+        cursor: none;
     }
 `
